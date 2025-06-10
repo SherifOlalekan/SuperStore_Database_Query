@@ -45,8 +45,6 @@ CREATE TABLE [dbo].[Users](
 )
 GO
 
-
-
 -- THE IMPORT PROCESS
 
 -- Insert the returns table
